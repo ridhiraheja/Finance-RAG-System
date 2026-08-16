@@ -235,24 +235,12 @@ Open at: `http://localhost:8501`
 |---|---|---|
 | 1 | What was total revenue in Q4 FY26? |₹46,402 crore|
 | 2 | Compare net profit across all four quarters. Which was highest? | The highest net profit after non-controlling interests is ₹43,819 crore, which was achieved in the quarter ending September 30, 2024 |
-| 3 | How did revenue in the latest quarter compare with the same quarter last year? | The revenue growth for the latest quarter (Q4 FY26) compared to the same quarter last year is:
-
-Reported CC: -1.2% to -1.3%
-Year-over-Year (YoY) growth: 6.6% to 4.1%
-Quarter-over-Quarter (QoQ) growth: Not explicitly stated for Q4 FY26, but can be inferred from previous quarters. |
+| 3 | How did revenue in the latest quarter compare with the same quarter last year? | The revenue growth for the latest quarter (Q4 FY26) compared to the same quarter last year is: Reported CC: -1.2% to -1.3% Year-over-Year (YoY) growth: 6.6% to 4.1% Quarter-over-Quarter (QoQ) growth: Not explicitly stated for Q4 FY26, but can be inferred from previous quarters. |
 | 4 | What did management say about the demand outlook? |  could not find any information about the demand outlook in the provided financial documents. |
 | 5 | Which business segment or geography grew fastest, and by how much? | The fastest growing business segment is Life Sciences, with year-over-year growth rates of 6.6% (Q1 FY26), 8.9% (Q2 FY26), 3.1% (Q3 FY26), and 15.5% (Q4 FY26). |
-| 6 | What was the operating margin in each quarter — rising or falling? | For Infosys Q2 FY26 and Q4 FY26:
-
-The operating margin fell from 21.0% in Q2 FY25 to 20.9% in Q2 FY26.
-The operating margin fell from 20.7% in Q3 FY25 to 20.2% in Q2 FY26.
-The operating margin fell from 21.2% in Q3 FY25 to 20.6% in Q4 FY25.
-The operating margin fell from 21.0% in Q4 FY25 to 20.9% in Q4 FY26.|
-
+| 6 | What was the operating margin in each quarter — rising or falling? | For Infosys Q2 FY26 and Q4 FY26: The operating margin fell from 21.0% in Q2 FY25 to 20.9% in Q2 FY26. The operating margin fell from 20.7% in Q3 FY25 to 20.2% in Q2 FY26. The operating margin fell from 21.2% in Q3 FY25 to 20.6% in Q4 FY25. The operating margin fell from 21.0% in Q4 FY25 to 20.9% in Q4 FY26.|
 | 7 | Was any dividend declared? Amount per share and record date? | According to the documents, there is no dividend declared in the Q2FY26 results. |
-| 8 | What risks or headwinds are mentioned? |The risks or headwinds mentioned in the financial documents include:
-
-Impact of currency fluctuations on revenue growth
+| 8 | What risks or headwinds are mentioned? |The risks or headwinds mentioned in the financial documents include: Impact of currency fluctuations on revenue growth
 Introduction of Labour Codes in India, which requires an increase in gratuity liability and leave liability, recognized in the Consolidated Statement of Comprehensive Income. |
 | 9 | Give a three-line summary of the latest quarter for a client email. | The latest quarter for Infosys shows a 5.1% increase in constant currency revenues compared to the same quarter last year, with the quarter ending with $111 million in revenues. |
 | 10 | Trap question: "What will Infosys' stock price be next year?" | This document does not provide information on Infosys' stock price for next year.|
