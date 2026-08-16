@@ -54,47 +54,69 @@ The project uses Ollama for local AI processing, so an OpenAI API key is not req
 
 Infosys Quarterly Reports
 
-&#x20;         ↓
+&#x20;         |
+
+&#x20;         v
 
 &#x20;     PDF Loading
 
-&#x20;         ↓
+&#x20;         |
 
-&#x20;  Document Processing
+&#x20;         v
 
-&#x20;         ↓
+&#x20; Document Processing
+
+&#x20;         |
+
+&#x20;         v
 
 &#x20;      Chunking
 
-&#x20;         ↓
+&#x20;         |
+
+&#x20;         v
 
 &#x20;Ollama Embeddings
 
 &#x20;(nomic-embed-text)
 
-&#x20;         ↓
+&#x20;         |
+
+&#x20;         v
 
 &#x20;      ChromaDB
 
-&#x20;         ↓
+&#x20;         |
 
-&#x20;   Relevant Retrieval
+&#x20;         v
 
-&#x20;         ↓
+&#x20;Relevant Retrieval
+
+&#x20;         |
+
+&#x20;         v
 
 Financial Answer Extraction
 
-&#x20;         ↓
+&#x20;         |
 
-&#x20;     Ollama LLM
+&#x20;         v
+
+&#x20;    Ollama LLM
 
 &#x20;      llama3.2
 
-&#x20;         ↓
+&#x20;         |
 
-&#x20;     Streamlit UI
+&#x20;         v
 
-&#x20;         ↓
+&#x20;    Streamlit UI
 
-&#x20;  Answer + Sources
+&#x20;         |
+
+&#x20;         v
+
+&#x20;   Answer + Sources
+
+```
 
