@@ -299,7 +299,7 @@ https://github.com/ridhiraheja/Finance-RAG-System
 
 ##Demo Video link
 https://drive.google.com/file/d/17VwKoJ3Pf_V2-aLbYzBBAkH5sd30-TJQ/view?usp=sharing
-
+https://drive.google.com/drive/folders/1eNzFJ-FM1E6xqPk2hh64LB5mrYyt0_hA?usp=sharing
 
 ## Author
 
