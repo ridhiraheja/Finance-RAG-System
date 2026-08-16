@@ -1,122 +1,56 @@
-\# 💰 Finance RAG System – Infosys Quarterly Reports
+# Finance RAG System – Infosys Quarterly Reports
 
+A local Retrieval-Augmented Generation (RAG) system for asking questions about Infosys quarterly financial reports.
 
+The project uses Ollama for local AI processing, ChromaDB for vector storage and retrieval, LangChain for the RAG pipeline, and Streamlit for the user interface.
 
-A local Retrieval-Augmented Generation (RAG) system that allows users to ask questions about Infosys quarterly financial reports.
+## Features
 
+- Processes Infosys quarterly financial reports
+- PDF document processing
+- Document chunking
+- Semantic search using ChromaDB
+- Ollama embeddings using `nomic-embed-text`
+- Local LLM using `llama3.2`
+- Financial question answering
+- Quarter-specific retrieval
+- Source and page references
+- Interactive Streamlit interface
+- No OpenAI API key required
 
-
-The system processes quarterly financial documents, stores their embeddings in ChromaDB, retrieves relevant information, and provides financial answers through an interactive Streamlit interface.
-
-
-
-The project uses Ollama for local AI processing, so an OpenAI API key is not required.
-
-
-
-\---
-
-
-
-\## 🚀 Features
-
-
-
-\- 📄 Processes Infosys quarterly financial reports
-
-\- ✂️ Document processing and chunking
-
-\- 🔎 Semantic retrieval using ChromaDB
-
-\- 🧠 Retrieval-Augmented Generation workflow
-
-\- 🤖 Local LLM processing using Ollama
-
-\- 📊 Financial question answering
-
-\- 📚 Source and page references
-
-\- 🌐 Interactive Streamlit interface
-
-\- 🔐 No OpenAI API key required
-
-
-
-\---
-
-
-
-\## 🏗️ System Architecture
-
-
+## System Architecture
 
 ```text
-
 Infosys Quarterly Reports
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;     PDF Loading
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20; Document Processing
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;      Chunking
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;Ollama Embeddings
-
-&#x20;(nomic-embed-text)
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;      ChromaDB
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;Relevant Retrieval
-
-&#x20;         |
-
-&#x20;         v
-
+          |
+          v
+      PDF Loading
+          |
+          v
+  Document Processing
+          |
+          v
+       Chunking
+          |
+          v
+ Ollama Embeddings
+ (nomic-embed-text)
+          |
+          v
+       ChromaDB
+          |
+          v
+ Relevant Retrieval
+          |
+          v
 Financial Answer Extraction
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;    Ollama LLM
-
-&#x20;      llama3.2
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;    Streamlit UI
-
-&#x20;         |
-
-&#x20;         v
-
-&#x20;   Answer + Sources
-
-```
-
+          |
+          v
+     Ollama LLM
+       llama3.2
+          |
+          v
+     Streamlit UI
+          |
+          v
+    Answer + Sources
